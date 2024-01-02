@@ -1,1 +1,2 @@
-This is git code
+This is github tutorial.
+git easy easy.
